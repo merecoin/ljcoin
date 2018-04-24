@@ -1,0 +1,9 @@
+Building Ljcoin
+
+See doc/readme-qt.rst for instructions on building Ljcoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Ljcoin.
+
+See doc/build-*.txt for instructions on building ljcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Ljcoin.
