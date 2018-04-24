@@ -1,6 +1,8 @@
 Ljcoin - is the crypto coin
 ===========================
 
+Download Ljcoin for Windows here: https://github.com/merecoin/ljcoin/releases
+
 
 What is Ljcoin?
 ---------------
